@@ -39,12 +39,12 @@ function App() {
             <button className="bg-[#3175bb] hover:bg-white hover:text-[#3175bb] hover:border-2 hover:border-[#3175bb] h-8 w-24 rounded-full text-white ">
               Contact
             </button>
-            <button
+            <a
               href="https://www.linkedin.com/in/sunilsai-yelleti-a51884247/"
               className="ml-3 bg-black hover:bg-white hover:text-black hover:border-2 hover:border-black text-white h-8 w-24 rounded-full "
             >
               Hire Me{" "}
-            </button>
+            </a>
           </div>
         </div>
         <div className="fancy-border overflow-hidden bg-primary h-[380px] box-shadow w-[323px] flex justify-center items-center">
