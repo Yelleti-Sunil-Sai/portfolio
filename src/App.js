@@ -41,7 +41,7 @@ function App() {
             </button>
             <a
               href="https://www.linkedin.com/in/sunilsai-yelleti-a51884247/"
-              className="ml-3 bg-black hover:bg-white hover:text-black hover:border-2 hover:border-black text-white h-8 w-24 rounded-full text-center "
+              className="ml-3 bg-black hover:bg-white hover:text-black hover:border-2 hover:border-black text-white h-8 w-24 rounded-full text-center padding-top:2px"
             >
               Hire Me{" "}
             </a>
